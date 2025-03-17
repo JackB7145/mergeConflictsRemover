@@ -28,12 +28,3 @@ Before running the script, ensure that:
 
 ---
 
-## Usage
-
-### 1. Clone the Repository
-
-If you haven't already, clone the repository you want to apply the script to:
-
-```bash
-git clone <repository-url>
-cd <repository-directory>
