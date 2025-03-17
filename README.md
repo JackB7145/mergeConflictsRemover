@@ -25,6 +25,6 @@ Before running the script, ensure that:
 - The repository is a valid **Git repository**.
 - Your main development branches are named `feature-branch` (the feature branch) and `dev-branch` (the development branch).
 - You must add the **merge conflict file** provided into the `input.txt` file located in the `./bin/input.txt` directory **before** running the script.
+- **PyUnit** (Python's built-in `unittest` module) is used for testing purposes. Ensure you have Python installed, as it will be required to run tests.
 
 ---
-
